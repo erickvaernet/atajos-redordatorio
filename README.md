@@ -1,4 +1,4 @@
-#Guía Atajos win10+Opera+Intellij
+# Guía Atajos win10+Opera+Intellij
 
 ## Atajos Windows 10
 * shift + f10 = click izquierdo del raton
