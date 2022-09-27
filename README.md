@@ -1,12 +1,13 @@
+#Guía Atajos win10+Opera+Intellij
 
-# Atajos Windows 10
+## Atajos Windows 10
 * shift + f10 = click izquierdo del raton
 
-# Atajos Opera Gx/ otros navegadores
+## Atajos Opera Gx/ otros navegadores
 * ctrl + t = nueva pestaña lateral (Sin nueva ventana)
 * ctrl + n = nueva pestaña en Nueva ventana
 
-# Atajos Intellij
+## Atajos Intellij
 ### Mas Usados :
 * ctrl + d = copiar linea abajo
 
