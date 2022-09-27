@@ -1,10 +1,8 @@
-# atajos-redordatorio
-Repositorio creado para guardar atajos útiles que pueden servir en Intellij, Windows, Opera
 
-#Atajos Win
+# Atajos Windows 10
 * shift + f10 = click izquierdo del raton
 
-#Atajos Opera/ otros navegadores
+# Atajos Opera Gx/ otros navegadores
 * ctrl + t = nueva pestaña lateral (Sin nueva ventana)
 * ctrl + n = nueva pestaña en Nueva ventana
 
